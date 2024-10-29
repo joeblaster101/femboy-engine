@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\dev\femboy-engine\sandbox\src\Application.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sandbox.vcxproj -> C:\dev\femboy-engine\bin\Debug-x64\sandbox\sandbox.exe
